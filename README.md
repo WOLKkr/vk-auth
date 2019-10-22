@@ -1,4 +1,4 @@
-meteor-accounts-vk
+meteor-vk-auth
 ==================
 
 Login service for VKontakte accounts (https://vk.com).
@@ -8,7 +8,7 @@ Usage
 
 1. Add the package to your project using meteorite:
 ```sh
-$ meteor add wolkkr:accounts-vk
+$ meteor add wolkkr:vk-auth
 ```
 
 2. Configure vkontakte login service. You can do mannually or using GUI.

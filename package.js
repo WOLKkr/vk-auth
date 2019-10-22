@@ -1,8 +1,8 @@
 Package.describe({
     summary: "Login service for VKontakte accounts (https://vk.com)",
-    version: "1.0.3",
-    git: "https://github.com/WOLKkr/meteor-accounts-vk",
-    name: "wolkkr:accounts-vk"
+    version: "1.0.0",
+    git: "https://github.com/WOLKkr/vk-auth",
+    name: "wolkkr:vk-auth"
 });
 
 Package.on_use(function(api) {

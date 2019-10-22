@@ -8,7 +8,7 @@ Usage
 
 1. Add the package to your project using meteorite:
 ```sh
-$ meteor add mrt:accounts-vk
+$ meteor add wolkkr:accounts-vk
 ```
 
 2. Configure vkontakte login service. You can do mannually or using GUI.

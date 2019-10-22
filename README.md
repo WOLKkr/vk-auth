@@ -25,7 +25,7 @@ $ meteor add wolkkr:vk-auth
                 appId:   '1234567',       // Your app id
                 secret:  'someappsecret', // Your app secret
                 scope:   'email,status',  // Your app scope
-                v:        '5.92'          // VK API version
+                v:        '5.102'          // VK API version
             });
         }
     ```

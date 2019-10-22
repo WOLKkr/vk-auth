@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Login service for VKontakte accounts (https://vk.com)",
-    version: "1.0.0",
+    version: "0.0.2",
     git: "https://github.com/WOLKkr/vk-auth",
     name: "wolkkr:vk-auth"
 });
